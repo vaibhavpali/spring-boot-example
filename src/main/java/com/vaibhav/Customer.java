@@ -1,4 +1,4 @@
-package com.amigoscode;
+package com.vaibhav;
 
 import jakarta.persistence.*;
 
